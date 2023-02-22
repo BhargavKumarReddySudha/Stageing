@@ -1,0 +1,94 @@
+# Networking :- 
+
+Networking refers to the connection of multiple computers or devices to allow the exchange of data and resources. This can be achieved through a variety of technologies, including wired and wireless networks.
+
+A network allows devices to communicate with each other and share resources such as printers, files, and internet access. It also provides a platform for more advanced applications such as email, file sharing, and remote access.
+
+There are many different types of networks, including local area networks (LANs), wide area networks (WANs), and virtual private networks (VPNs). Each type of network is designed for a specific purpose and has its own set of characteristics, such as size, speed, and security.
+
+
+# Compute :-
+
+Computing refers to the process of using computers to perform a wide range of tasks, including data processing, storage, and retrieval, as well as running applications and providing access to the internet.
+
+Computing is based on the principles of computer science, which involves the study of algorithms and data structures, programming languages, computer architecture, and software engineering. It also encompasses a wide range of technologies and devices, including servers, desktops, laptops, smartphones, and other forms of technology.
+
+Computing has become an essential part of modern life and plays a crucial role in fields such as business, science, education, entertainment, and more. The development of new technologies and the increasing use of computers in everyday life has led to the creation of a new field called cloud computing, which involves the delivery of computing services over the internet.
+
+Overall, computing has revolutionized the way people live, work, and communicate, and is an important area of study for anyone interested in technology and its impact on society.
+
+
+# Storage :-
+
+Storage refers to the process of retaining data in a computer or other electronic device for later use. This can be accomplished through various forms of storage media, such as hard disk drives (HDD), solid-state drives (SSD), and memory cards.
+
+The primary purpose of storage is to provide a place for data to be kept so that it can be accessed and used again in the future. Storage devices are classified based on their speed, capacity, and cost, with different types of storage being used for different purposes. For example, fast, expensive storage devices such as SSDs are often used to store the operating system and frequently-used programs, while slower, less expensive storage devices such as HDDs are used to store less frequently-used data.
+
+In addition to traditional storage devices, cloud storage is becoming increasingly popular, allowing users to store data on remote servers and access it from anywhere with an internet connection.
+
+Overall, storage is a crucial aspect of computing and is essential for retaining and accessing important data.
+
+# Security :-
+
+Security refers to the protection of systems, networks, and data from unauthorized access, use, disclosure, disruption, modification, or destruction. This is becoming increasingly important as more of our daily lives are conducted online and more sensitive information is stored on computers and other electronic devices.
+
+There are many different types of security measures that can be used to protect systems and data, including firewalls, antivirus software, encryption, access controls, and more. Each of these measures has its own strengths and weaknesses, and it is often necessary to use multiple measures together in order to provide comprehensive security.
+
+In addition to technical security measures, there are also many important security practices that individuals and organizations should follow, such as creating strong passwords, backing up important data, and being aware of the latest security threats.
+
+Overall, security is a critical issue in the modern world and is essential for the protection of sensitive information and the integrity of systems and networks.
+
+
+# Cloud :-
+
+Cloud computing refers to the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale.
+
+Instead of having to build and maintain their own IT infrastructure, organizations can use cloud services to access these resources on-demand and only pay for what they use. This can reduce costs, increase efficiency, and provide more flexibility to organizations of all sizes.
+
+There are three main types of cloud computing: Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). IaaS provides virtualized computing resources such as virtual machines and storage, PaaS provides a platform for developing, running, and managing applications, and SaaS provides access to software applications over the internet.
+
+Cloud computing has become an increasingly popular option for organizations, offering benefits such as reduced capital expenditures, increased operational efficiency, and improved access to technology. However, it is important to carefully consider security, compliance, and privacy concerns when using cloud services.
+
+
+# AWS :-
+
+Amazon Web Services (AWS) is a collection of remote computing services (also called web services) that make up a cloud computing platform, offered by Amazon.com. These services operate from 12 geographic regions across the world.
+
+AWS provides a wide range of services, including computing, storage, databases, analytics, machine learning, security, mobile, development tools, and more. These services can be used individually or combined to build complex applications and IT systems.
+
+AWS customers can take advantage of the scalability, reliability, and agility of the cloud to build and run a wide range of applications, including websites, mobile and gaming apps, enterprise applications, and more. The pay-as-you-go model of AWS allows customers to only pay for the services they use, making it an cost-effective solution for businesses of all sizes.
+
+Overall, AWS is one of the largest and most popular cloud computing platforms available, offering a comprehensive set of services and a wide range of benefits for customers.
+
+
+# Terraform :-
+
+Terraform is an open-source tool for building, changing, and versioning infrastructure safely and efficiently. It can manage popular service providers as well as custom in-house solutions.
+
+Terraform allows developers and system administrators to define their infrastructure as code (IAC), which can be stored in version control and reused across multiple environments. This makes it easier to manage, version, and track changes to infrastructure over time.
+
+Terraform uses a high-level configuration syntax to describe the desired state of infrastructure, and then automates the process of creating, updating, and deleting resources. This eliminates the need for manual processes and reduces the risk of human error, making it easier to maintain consistent, reproducible infrastructure.
+
+Terraform is platform-agnostic and can manage a wide range of resources, including virtual machines, DNS entries, databases, and cloud-based services from providers like AWS, Google Cloud, and Microsoft Azure.
+
+Overall, Terraform is a powerful tool for managing infrastructure and automating the provisioning and management of resources, helping organizations to build, change, and version infrastructure in a safe, repeatable, and efficient manner.
+
+
+# CI/CD :-
+
+Continuous Integration/Continuous Deployment (CI/CD) is a software development practice that aims to automate and streamline the software development process. The goal of CI/CD is to shorten the feedback loop between writing code and delivering it to end users, while also reducing the risk of introducing bugs into production.
+
+CI/CD involves continuously integrating code changes into a single codebase, testing the changes automatically, and then continuously deploying the changes to a production environment. This allows organizations to deliver new features and bug fixes to end users faster and with greater confidence, since the process is automated and thoroughly tested.
+
+The CI/CD process typically includes several steps, such as code integration, automated testing, and deployment. Tools like Jenkins, Travis CI, and GitLab CI/CD can be used to automate the CI/CD pipeline and make the process more efficient and reliable.
+
+Overall, CI/CD is an essential part of modern software development and is widely adopted by organizations of all sizes to improve the speed and quality of software delivery.
+
+
+# K8S :-
+
+Kubernetes is an open-source platform for automating the deployment, scaling, and management of containerized applications. It was originally developed by Google and is now maintained by the Cloud Native Computing Foundation (CNCF).
+
+Kubernetes provides a unified platform for deploying, scaling, and managing containers, making it easier to build, deploy, and manage modern, cloud-native applications. It helps automate many of the manual processes involved in deploying and scaling containers, reducing the risk of human error and making it easier to manage large, complex applications.
+
+Kubernetes provides a number of key features, including automatic bin-packing, self-healing, service discovery and load balancing, automatic rollouts and rollbacks, and secret and configuration management.
