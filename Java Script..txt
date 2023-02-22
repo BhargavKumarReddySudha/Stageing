@@ -1,0 +1,15 @@
+	JAVA SCRIPT
+* java script is a scripting language .
+  *jc can be used as 
+        *client side 
+        *server side
+*js is used to design dynamic web pages
+*client side validation
+*using js we can change HTML content
+*change the attributes of HTML tags
+*change the CSS
+*hide and display the content of HTML
+*By using js we can change the attributes of HTML
+*we can retrive the tags with the help of ID
+*for taht we have function: getElementById("")
+*to change the HTML content we have property called : inner.HTML
