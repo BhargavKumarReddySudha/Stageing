@@ -1,0 +1,31 @@
+var ptask=new GlideRecord('problem_task');
+	ptask.addQuery('problem',current.sys_id);// problem=="sys_id"&& problem_task_type==rca&&active==true
+	ptask.addQuery('problem_task_type','rca');
+	ptask.query();
+	if(!ptask.next()){
+		
+		gs.addInfoMessage('All related tasks has been completed please take further action on this problem');
+	}
+
+
+find the latest updated records in the incident 
+
+Update child incident comments and notes from the parent and parent to child.
+
+when child incident state is inprogress
+
+
+
+How to stop current record submission in Business rule
+if I don't want to update sys fields while I am updating the record from the script.
+Will previous object works on asynch BR
+how to add encoded query to Gliderecord?
+If all related problam tasks closed then only current problem should closed.
+How can you trigger email notifications from the business rule
+Can we use current.update() in befor/after Business rules if i use what will happen
+difference between after and asynch BR
+what is the Query and display BR
+use cases of the all business rules.
+
+
+
